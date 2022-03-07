@@ -1,0 +1,6 @@
+.DS_Store
+firmware/
+*.bak
+img/
+support/
+venv/
