@@ -10,3 +10,4 @@ Clone the repo and follow the instructions hosted at:
 - [IoT Devices Lab Series 2 - Flashing Micropython on the ESP32](https://docs.canadillas.org/iot/IoT_Devices_Lab_Series-2)
 - [IoT Devices Lab Series 3 - Getting Started with Micropython and the ESP32](https://docs.canadillas.org/iot/IoT_Devices_Lab_Series-3)
 - [IoT Devices Lab Series 4 - Working with GPIOs](https://docs.canadillas.org/iot/IoT_Devices_Lab_Series-4)
+- [IoT Devices Lab Series 5 - Getting Started with Sensors and Micropython on the ESP32](https://docs.canadillas.org/iot/IoT_Devices_Lab_Series-5/) 
